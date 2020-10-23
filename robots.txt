@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://emotiontest.netlify.app/sitemap.xml
