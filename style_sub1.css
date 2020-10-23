@@ -1,11 +1,3 @@
-@font-face{
-  font-family: 'melona';
-  src: local('melona'),url(fonts/BinggraeMelona-Bold.ttf) format('truetype');
-}
-.title{
-  font-family: 'melona',sans-serif;
-}
-
 body {
     font-family: sans-serif;
     background-color: #ffffff;
