@@ -163,14 +163,14 @@ body {
 }
 .youtube-link:hover{
     font-family: NanumSquareR;
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: 1.71;
     text-align: center;
     color: #f73737;
     text-decoration: underline;
 }
 .youtube-icon{
-    width: 8%;
+    width: 5%;
 }
 .image-upload-wrap {
   margin: 0 auto;
