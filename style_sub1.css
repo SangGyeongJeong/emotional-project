@@ -1,3 +1,28 @@
+@font-face {
+
+  src : url("../fonts/BinggraeMelona-Bold.ttf");
+
+  font-family: "Melona";
+
+}
+@font-face {
+
+  src : url("../fonts/BinggraeSamanco.ttf");
+
+  font-family: "Samanco";
+
+}
+@font-face {
+
+  src : url("../fonts/BinggraeSamanco-Bold.ttf");
+
+  font-family: "Samanco-Bold";
+
+}
+h1{
+  font-family: Melona;
+}
+
 body {
     font-family: sans-serif;
     background-color: #ffffff;
