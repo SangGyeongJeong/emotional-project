@@ -156,9 +156,9 @@ body {
 }
 .youtube-link{
     font-family: NanumSquareR;
-    font-size: 5%;
+    font-size: 1.5rem;
     line-height: 1.71;
-    text-align: center;
+    text-align: left;
     color: #f73737;
     text-decoration: underline;
 }
