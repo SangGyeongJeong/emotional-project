@@ -297,8 +297,6 @@ body {
   float:left;
 }
 .ad-bannerbig-b{
-  margin:auto;
-}
-.ad-bannerbig-c{
-  float:right;
+  width: 300px;
+  float: right;
 }
