@@ -294,7 +294,7 @@ body {
   margin: 0 auto;
 }
 .ad-bannerbig{
-  width:600px;
+  width:650px;
   margin: 0 auto;
 }
 .ad-bannerbig-a{
@@ -305,5 +305,4 @@ body {
 .ad-bannerbig-b{
   width: 50%;
   float: left;
-  margin-right: 10px;
 }
