@@ -289,7 +289,12 @@ body {
   text-align: left;
   height: 2rem;
 }
-.ad-banner{
+.ad-banner-a{
+  margin-top: 10px;
+  width: 320px;
+  margin: 0 auto;
+}
+.ad-banner-b{
   width: 320px;
   margin: 0 auto;
 }
