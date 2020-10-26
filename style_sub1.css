@@ -294,9 +294,9 @@ body {
   margin: 0 auto;
 }
 .ad-bannerbig-a{
-  float:left;
+  margin: 0 auto;
 }
 .ad-bannerbig-b{
   width: 300px;
-  float: right;
+  margin: 0 auto;
 }
