@@ -293,16 +293,12 @@ body {
   width: 320px;
   margin: 0 auto;
 }
-.ad-bannerbig{
-  width:610px;
+.ad-bannerbig-a{
+  width: 320px;
   margin: 0 auto;
 }
-.ad-bannerbig-a{
-  width:50%;
-  float: left;
-  margin-right: 10px;
-}
 .ad-bannerbig-b{
-  width: 50%;
-  float: left;
+  width: 320px;
+  margin: 0 auto;
 }
+ 
