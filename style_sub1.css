@@ -293,12 +293,11 @@ body {
   width: 320px;
   margin: 0 auto;
 }
-.ad-bannerbig-a{
+.ad-bannerbig{
   width: 320px;
   margin: 0 auto;
 }
-.ad-bannerbig-b{
-  width: 320px;
-  margin: 0 auto;
+.ad-bannerbig-list{
+  width: 100%; border: 1px;
 }
  
