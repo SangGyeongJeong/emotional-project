@@ -293,10 +293,15 @@ body {
   width: 320px;
   margin: 0 auto;
 }
-.ad-bannerbig-a{
+.ad-bannerbig{
+  width: 320px;
   margin: 0 auto;
 }
+.ad-bannerbig-a{
+  width:50%;
+  float: left;
+}
 .ad-bannerbig-b{
-  width: 300px;
-  margin: 0 auto;
+  width: 50%;
+  float: left;
 }
